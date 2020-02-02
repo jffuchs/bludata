@@ -1,0 +1,12 @@
+unit Telefone;
+
+interface
+
+type
+  TTelefone = class
+  
+  end;
+
+implementation
+
+end.

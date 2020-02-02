@@ -1,0 +1,9 @@
+inherited FContato: TFContato
+  Left = 436
+  Top = 170
+  Width = 362
+  Height = 225
+  Caption = 'Adicionar Telefone'
+  PixelsPerInch = 96
+  TextHeight = 13
+end
